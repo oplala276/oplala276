@@ -6,4 +6,4 @@ Hi✨, I'm O P Lala, a Full Stack Developer with good knowledge in ReactJS, Node
 - 🔭 I’m currently working on FilmFlare.
 - 🌱 I’m currently learning Machine Learning.
 - 💬 Ask me about MERN stack.
-- ⚡ Fun fact: python is named after the British comedy series "Monty Python's Flying Circus.
+- ⚡ Fun fact: Python is named after the British comedy series "Monty Python's Flying Circus.
